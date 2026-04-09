@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LLTrial
+comment1.params=
+comment1.target=Node\ Develop()
+comment2.params=head
+comment2.target=void\ display(Node)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

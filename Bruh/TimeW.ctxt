@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=TimeW
+comment1.params=h\ m
+comment1.target=void\ printWords(int,\ int)
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

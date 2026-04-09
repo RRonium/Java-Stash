@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ImplQue
+comment1.params=size
+comment1.target=Queue(int)
+comment2.params=item
+comment2.target=void\ queueEnq(int)
+comment3.params=
+comment3.target=void\ queueDeq()
+comment4.params=
+comment4.target=void\ queueDisp()
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

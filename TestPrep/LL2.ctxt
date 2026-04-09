@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LL2
+comment1.params=list\ data
+comment1.target=LL2\ insert(LL2,\ int)
+comment2.params=list
+comment2.target=void\ printList(LL2)
+comment3.params=list\ key
+comment3.target=LL2\ deleteByKey(LL2,\ int)
+comment4.params=list\ index
+comment4.target=LL2\ deleteByPosition(LL2,\ int)
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6

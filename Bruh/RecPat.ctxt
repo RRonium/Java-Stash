@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=RecPat
+comment1.params=r\ c
+comment1.target=void\ tri(int,\ int)
+comment1.text=int\ pat(int\ n)\r\n\ \ \ \ {\ \ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ if(n\=\=0)\r\n\ \ \ \ \ \ \ \ {\r\n\ \ \ \ \ \ \ \ \ \ \ \ return\ 0;\r\n\ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ \ System.out.print("*");\r\n\ \ \ \ \ \ \ \ return\ pat(--n);\r\n}
+comment2.params=args
+comment2.target=void\ main(java.lang.String[])
+numComments=3

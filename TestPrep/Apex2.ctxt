@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Apex2
+comment1.params=n
+comment1.target=boolean\ isPalin(int)
+comment1.text=int\ x;\r\n\ \ \ \ void\ accept()\r\n\ \ \ \ {\r\n\ \ \ \ \ \ \ \ Scanner\ sc\ \=new\ Scanner(System.in);\r\n\ \ \ \ \ \ \ \ System.out.println("Please\ enter\ a\ number\:\ ");\r\n\ \ \ \ \ \ \ \ x\=sc.nextInt();\r\n}
+comment2.params=n
+comment2.target=boolean\ isPrime(int)
+comment3.params=
+comment3.target=void\ compute()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

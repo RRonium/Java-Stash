@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=ApexLL
+comment1.params=head1\ head2
+comment1.target=Node\ concat(Node,\ Node)
+comment2.params=curr
+comment2.target=void\ printList(Node)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

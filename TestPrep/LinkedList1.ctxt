@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=LinkedList1
+comment1.params=list\ data
+comment1.target=LinkedList1\ insert(LinkedList1,\ int)
+comment2.params=list
+comment2.target=void\ printList(LinkedList1)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

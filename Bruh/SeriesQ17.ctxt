@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=SeriesQ17
+comment1.params=n
+comment1.target=void\ series(double)
+comment2.params=a\ n
+comment2.target=void\ series(double,\ double)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

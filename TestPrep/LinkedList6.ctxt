@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=LinkedList6
+comment1.params=val
+comment1.target=void\ insertFront(int)
+comment10.params=args
+comment10.target=void\ main(java.lang.String[])
+comment2.params=val
+comment2.target=void\ insertEnd(int)
+comment3.params=val\ pos
+comment3.target=void\ insertMid(int,\ int)
+comment4.params=
+comment4.target=void\ deleteFront()
+comment5.params=
+comment5.target=void\ deleteEnd()
+comment6.params=pos
+comment6.target=void\ deleteMid(int)
+comment7.params=head1\ head2
+comment7.target=void\ merge(Node,\ Node)
+comment8.params=
+comment8.target=Node\ reversal_arr()
+comment9.params=list
+comment9.target=Node\ reversal(Node)
+numComments=11

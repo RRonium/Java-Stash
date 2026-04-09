@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Eve
+comment1.params=
+comment1.target=void\ series()
+comment2.params=n
+comment2.target=void\ series(int)
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=GeoAnalyser
+comment1.params=
+comment1.target=float\ PI()
+comment2.params=
+comment2.target=float\ area()
+comment3.params=
+comment3.target=float\ perimeter()
+numComments=4

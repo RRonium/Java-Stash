@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=StudentQ2
+comment1.params=sum\ n
+comment1.target=void\ avg(int,\ int)
+comment2.params=n\ marks\ name
+comment2.target=void\ dev(int,\ int[],\ java.lang.String[])
+comment3.params=args
+comment3.target=void\ main(java.lang.String[])
+numComments=4

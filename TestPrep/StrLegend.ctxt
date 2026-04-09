@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=StrLegend
+comment1.params=
+comment1.target=void\ accept()
+comment2.params=
+comment2.target=void\ calc1()
+comment3.params=
+comment3.target=void\ calc2()
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5

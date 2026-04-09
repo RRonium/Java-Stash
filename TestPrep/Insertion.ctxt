@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Insertion
+comment1.params=val
+comment1.target=void\ IFront(int)
+comment2.params=val
+comment2.target=void\ ILast(int)
+numComments=3

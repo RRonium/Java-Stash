@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Rectangle
+comment1.params=l\ b
+comment1.target=Rectangle(int,\ int)
+comment2.params=
+comment2.target=float\ PI()
+comment3.params=
+comment3.target=float\ area()
+comment4.params=
+comment4.target=float\ perimeter()
+numComments=5

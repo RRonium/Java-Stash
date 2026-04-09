@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Deque
+comment1.params=n
+comment1.target=Deque(int)
+comment2.params=n
+comment2.target=void\ enqueue_front(int)
+comment3.params=n
+comment3.target=void\ enqueue_back(int)
+comment4.params=
+comment4.target=void\ dequeue_front()
+comment5.params=
+comment5.target=void\ dequeue_back()
+comment6.params=
+comment6.target=void\ display()
+numComments=7

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=LinkedList3
+comment1.params=arr
+comment1.target=void\ callingLL(int[])
+comment2.params=arr
+comment2.target=Node\ ArraytoLL(int[])
+comment3.params=head
+comment3.target=void\ LengthofLL(Node)
+comment4.params=arr
+comment4.target=void\ traversal(int[])
+comment5.params=args
+comment5.target=void\ main(java.lang.String[])
+numComments=6
